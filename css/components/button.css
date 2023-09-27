@@ -1,0 +1,13 @@
+.btn-blue {
+  background-color: #6A72E1;
+  padding: 15px 20px;
+  color: white;
+  border-radius: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.btn-blue a:hover {
+  opacity: 0.6;
+}
